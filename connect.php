@@ -8,10 +8,10 @@ class Connect{
 
     public function __construct()
     {
-        $this->server ="localhost";
-        $this->dbname = "shop_GCC210350";
-        $this->uname = "root";
-        $this->pass = "";
+        $this->server ="k3xio06abqa902qt.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+        $this->dbname = "w48z2cs5lfkat2uo";
+        $this->uname = "yyvetvkgvx0twmxa";
+        $this->pass = "rvm5r4szfqqamgz2";
     }
     //option1: mysqli => Select không điều kiện
     function connectToMySQL():mysqli{ // connectToMySQL() sử dụng mysqli để kết nối đến MySQL.
