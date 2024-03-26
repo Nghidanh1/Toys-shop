@@ -35,6 +35,7 @@
             <div class="dropdown-menu">
               <a href="cat.php?id=C001" class="dropdown-item">Car Toys</a>
               <a href="cat.php?id=C002" class="dropdown-item">Plane Toys</a>
+              <a href="cat.php?id=C003" class="dropdown-item">Ship Toys</a>
             </div>
           </div>
         </div>
